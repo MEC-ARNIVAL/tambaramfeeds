@@ -10,7 +10,7 @@
 <channel>
 	<title>tambaramfeeds</title>
 	<atom:link href="http://360degree.ga/feed/" rel="self" type="application/rss+xml" />
-	<link>http://360degree.ga</link>
+	<link>http://360degree.ga/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 08 Jan 2021 14:37:48 +0000</lastBuildDate>
 	<language>en-US</language>
